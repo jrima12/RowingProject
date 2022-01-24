@@ -1,0 +1,43 @@
+Things to measure
+    Primary:
+    position of seat
+        line graph with data markers, center point is "0" mark
+    
+    Speed of seat:
+        graph? (not sure exactly how to measure it)
+    
+    Strength/force of pull
+        bar graph? each bar is the strength of the pull
+
+    speed of boat
+        line graph
+    
+    Secondary:
+    force of leg push?
+        bar graph?
+
+#################################################################################
+
+Sensors:
+Position of seat:
+    infrared sensor
+    draw wire sensor
+
+speed of seat:
+    speedometer
+    accelerometer
+
+Strength/Force of pull 
+    accelerometer
+    pressure sensor on oar? (would need major waterproofing)
+
+speed of boat
+    speedometer
+
+force of leg push
+    pressure sensor on footpads
+
+#########################################################################
+LIBRARIES:
+    Kivy for the gui
+    Bokeh for the plots?
